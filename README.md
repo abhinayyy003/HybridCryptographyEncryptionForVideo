@@ -19,4 +19,4 @@ HybridCryptographyTechniqueVideo is an encryption algorithm that combines **AES*
 ## How To Run
 ``` sh main.sh ```
 
-note: make sure that the video is named as `input_video.mp4`
+note: make sure that the input video is named as `input_video.mp4`
