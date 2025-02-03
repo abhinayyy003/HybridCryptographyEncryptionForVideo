@@ -1,6 +1,6 @@
-# HybridCryptographyTechniqueForVideo
+# Hybrid Cryptography Encryption For Video
 
-HybridCryptographyTechniqueVideo is an encryption algorithm that combines **AES** and **3DES** to securely encrypt video files. The video is split into two halves, where:  
+Hybrid Cryptography Encryption Video is an encryption Technique that combines **AES** and **3DES** to securely encrypt video files. The video is split into two halves, where:  
 - One half is encrypted using **AES**  
 - The other half is encrypted using **3DES (Triple DES)**  
 - Both encrypted halves are stored separately  
@@ -17,6 +17,6 @@ HybridCryptographyTechniqueVideo is an encryption algorithm that combines **AES*
 6. **Merging** – The decrypted halves are combined to reconstruct the original video.  
 
 ## How To Run
-``` sh main.sh ```
+```sh main.sh```
 
 note: make sure that the input video is named as `input_video.mp4`
